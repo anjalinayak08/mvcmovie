@@ -126,4 +126,8 @@ I created a github account.
 I push and pull  the mvcmovie file into the github.
 successfully created the new Repositorie.
 
+1521 UCT 
+I edited the seedData.ca and added new movies into the file .
+After that I deleted all the data from the running application and run it again it shows new added movies.
+
 

@@ -30,7 +30,7 @@ public static class SeedData
                 },
                 new Movie
                 {
-                    Title = "Frozen ",
+                    Title = "Jungle book ",
                     ReleaseDate = DateTime.Parse("2024-05-14"),
                     Genre = "Drama",
                     Rating = "R",
@@ -38,7 +38,7 @@ public static class SeedData
                 },
                 new Movie
                 {
-                    Title = "Toy story",
+                    Title = "Minions",
                     ReleaseDate = DateTime.Parse("2023-03-23"),
                     Genre = "Drama",
                     Rating = "R",
@@ -49,6 +49,14 @@ public static class SeedData
                     Title = "3 idiots",
                     ReleaseDate = DateTime.Parse("2017-06-23"),
                     Genre = "Western",
+                    Price = 15.99M,
+                    Rating = "R",
+                },
+                new Movie
+                {
+                    Title = "Tom and Jerry",
+                    ReleaseDate = DateTime.Parse("2019-06-30"),
+                    Genre = "Cartoon",
                     Price = 15.99M,
                     Rating = "R",
                 }
