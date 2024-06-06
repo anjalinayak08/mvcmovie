@@ -109,11 +109,21 @@ When user visit the main page of the website "https://localhost:7203/"it shows t
 As well as i added the new rating field.
 
 1510 UCT
-create -I added the form group" and take help from intelliSense help to update the fields.
-IntelliSense works with Tag Helpers.
+create -I added the form group and intelliSense help to update the fields.here IntelliSense works with Tag Helpers.
 
 1520 UCT
-Nuget package manager - i update the package manager by aading migration rating and upadating database.
+I update the package manager by ading migration rating and upadating database.
 
 1550 UCT
-Movies.cs - I added the Rating into the movie class to check the rating .as well as I added the validation into the movie model by stringlength ,name,and regular expression.
+Movies.cs - I added the Rating into the movie class to check the rating .
+
+
+
+2024-06-06
+1429 UCT
+
+I created a github account.
+I push and pull  the mvcmovie file into the github.
+successfully created the new Repositorie.
+
+
